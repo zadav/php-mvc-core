@@ -1,11 +1,11 @@
 <?php
 
 
-namespace zadav\framework\core\db;
+namespace zadav\framework\db;
 
 
-use zadav\framework\core\Application;
-use zadav\framework\core\Model;
+use zadav\framework\Application;
+use zadav\framework\Model;
 
 abstract class DbModel extends Model
 {

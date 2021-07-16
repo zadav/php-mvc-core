@@ -1,14 +1,14 @@
 <?php
 
-namespace zadav\framework\core;
+namespace zadav\framework;
 
-use zadav\framework\core\exception\NotFoundException;
+use zadav\framework\exception\NotFoundException;
 
 /**
  * Class Router
  *
  * @author David ZAOUI <dvdzaoui@gmail.com>
- * @package zadav\framework\Core
+ * @package zadav\framework
  */
 class Router
 {

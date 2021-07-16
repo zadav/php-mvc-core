@@ -1,10 +1,10 @@
 <?php
 
 
-namespace zadav\framework\core;
+namespace zadav\framework;
 
 
-use zadav\framework\core\db\DbModel;
+use zadav\framework\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

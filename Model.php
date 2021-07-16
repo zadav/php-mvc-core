@@ -1,7 +1,7 @@
 <?php
 
 
-namespace zadav\framework\core;
+namespace zadav\framework;
 
 abstract class Model
 {

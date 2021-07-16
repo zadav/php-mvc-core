@@ -1,10 +1,10 @@
 <?php
 
 
-namespace zadav\framework\core\form;
+namespace zadav\framework\form;
 
 
-use zadav\framework\core\Model;
+use zadav\framework\Model;
 
 abstract class BaseField
 {

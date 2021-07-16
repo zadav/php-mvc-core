@@ -1,7 +1,7 @@
 <?php
 
 
-namespace zadav\framework\core\exception;
+namespace zadav\framework\exception;
 
 
 class ForbiddenException extends \Exception

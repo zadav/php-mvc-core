@@ -1,11 +1,11 @@
 <?php
 
 
-namespace zadav\framework\core\middlewares;
+namespace zadav\framework\middlewares;
 
 
-use zadav\framework\core\Application;
-use zadav\framework\core\exception\ForbiddenException;
+use zadav\framework\Application;
+use zadav\framework\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

@@ -1,15 +1,15 @@
 <?php
 
-namespace zadav\framework\core;
+namespace zadav\framework;
 
-use zadav\framework\core\db\Database;
-use zadav\framework\core\db\DbModel;
+use zadav\framework\db\Database;
+use zadav\framework\db\DbModel;
 
 /**
  * Class Application
  *
  * @author David ZAOUI <dvdzaoui@gmail.com>
- * @package zadav\framework\Core
+ * @package zadav\framework
  */
 class Application
 {

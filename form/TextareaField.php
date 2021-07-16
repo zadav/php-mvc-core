@@ -1,7 +1,7 @@
 <?php
 
 
-namespace zadav\framework\core\form;
+namespace zadav\framework\form;
 
 
 class TextareaField extends BaseField

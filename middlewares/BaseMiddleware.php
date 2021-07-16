@@ -1,7 +1,7 @@
 <?php
 
 
-namespace zadav\framework\core\middlewares;
+namespace zadav\framework\middlewares;
 
 
 abstract class BaseMiddleware

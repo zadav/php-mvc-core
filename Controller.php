@@ -1,10 +1,10 @@
 <?php
 
 
-namespace zadav\framework\core;
+namespace zadav\framework;
 
 
-use zadav\framework\core\middlewares\BaseMiddleware;
+use zadav\framework\middlewares\BaseMiddleware;
 
 class Controller
 {
